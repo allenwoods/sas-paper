@@ -1,2 +1,1 @@
-# docsify-paper
-A template for using Docsify to organize your paper and code
+# 以社会计算为核心的AI安全
